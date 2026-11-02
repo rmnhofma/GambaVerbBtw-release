@@ -2,7 +2,7 @@
 
 **A room reverb for Linux whose rooms come from two short codes.**
 
-Version 1.1.2. To install it, see the [README](README.md).
+Version 1.1.3. To install it, see the [README](README.md).
 
 ## Getting started
 
@@ -35,7 +35,7 @@ reset it.
 Drag the BAND handles sideways; they stay at least 1.25× apart, and a double-click resets one.
 
 DECAY, MIX and the cuts are host parameters for automation. The codes and the mode are not, but they
-are saved with the project and in DAW presets. Clicking the logo opens this page.
+are saved with the project and in DAW presets. Clicking the logo opens [the plugin's page](https://rmnhofma.github.io/plugins/gambaverbbtw/).
 
 ## How to use it
 

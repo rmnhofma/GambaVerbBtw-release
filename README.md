@@ -29,10 +29,10 @@ Download the latest version from the [Releases page](https://github.com/rmnhofma
 or with these commands:
 
 ```bash
-curl -LO https://github.com/rmnhofma/GambaVerbBtw-release/releases/download/v1.1.2/GambaVerbBtw-1.1.2-linux-x86_64.tar.gz
-curl -LO https://github.com/rmnhofma/GambaVerbBtw-release/releases/download/v1.1.2/GambaVerbBtw-1.1.2-linux-x86_64.tar.gz.sha256
-sha256sum -c GambaVerbBtw-1.1.2-linux-x86_64.tar.gz.sha256 && tar xzf GambaVerbBtw-1.1.2-linux-x86_64.tar.gz
-cd GambaVerbBtw-1.1.2-linux-x86_64
+curl -LO https://github.com/rmnhofma/GambaVerbBtw-release/releases/download/v1.1.3/GambaVerbBtw-1.1.3-linux-x86_64.tar.gz
+curl -LO https://github.com/rmnhofma/GambaVerbBtw-release/releases/download/v1.1.3/GambaVerbBtw-1.1.3-linux-x86_64.tar.gz.sha256
+sha256sum -c GambaVerbBtw-1.1.3-linux-x86_64.tar.gz.sha256 && tar xzf GambaVerbBtw-1.1.3-linux-x86_64.tar.gz
+cd GambaVerbBtw-1.1.3-linux-x86_64
 ```
 
 Install for your user:
