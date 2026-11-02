@@ -2,7 +2,7 @@
 
 **A room reverb for Linux whose rooms come from two short codes.**
 
-Version 1.1.1. To install it, see the [README](README.md).
+Version 1.1.2. To install it, see the [README](README.md).
 
 ## Getting started
 
